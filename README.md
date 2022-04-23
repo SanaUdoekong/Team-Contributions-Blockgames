@@ -51,6 +51,7 @@ My contributions to team NEBULA for blockgames game phase
 3. [added hashes fro each role](https://github.com/Team-K-blockgames/Project-3/commit/e543862fc4e413770ba77cea11183a91ca249293)- Got the hashes for the roles and added them to the AccessControl.sol file
 4. [added comments to test](https://github.com/Team-K-blockgames/Project-3/commit/af73d621a613d7f006a39ebd597b9c2c7e67c559)- Added comments to the access control test for readability
 5. [increased test coverage](https://github.com/Team-K-blockgames/Project-3/commit/e6ce449cdaea181f45566b8815bf90779b01d047)- Increased the test coverage for the AccessControl contract and modified some functions in AccessControl.sol
+6. [all tests pass](https://github.com/Team-K-blockgames/Project-3/commit/102cf5c6f459c0dfefc2a95ae04403f8936a6bd7)- Fixed a bug in electionTest.js
 
 **Unmerged**
 1. [initial voting contract](https://github.com/Team-K-blockgames/Project-3/commit/8a150311dbad6400609a9ce7dd83b2f3868c477f)- Initial contributions to the implementation of functions in the Election.sol contract
